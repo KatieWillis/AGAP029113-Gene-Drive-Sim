@@ -1,6 +1,6 @@
 # AGAP029113-Gene-Drive-Sim
 ___
-This repository contains jupyter notebooks associated with the preprint "Resistance to a CRISPR-based gene drive at an evolutionarily conserved site is revealed by mimicking genotype fixation" available at https://www.biorxiv.org/content/10.1101/2021.07.26.453797v1.
+This repository contains jupyter notebooks associated with the publication "Resistance to a CRISPR-based gene drive at an evolutionarily conserved site is revealed by mimicking genotype fixation" available at https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009740.
 
 This code is adapted from https://github.com/KatieWillis/DoubleDriveSimulator and we are currently using this to explore other questions. If you are interested in extending the code please get in touch.
 
